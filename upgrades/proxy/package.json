@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@openzeppelin/contracts": "^4.9.2",
+    "node_module": "^0.0.0",
+    "nodemodule": "^0.3.0"
+  }
+}
